@@ -1,10 +1,10 @@
 [
 {
 "id": "evt-0002",
-"title": "Concierto de Green Day",
+"title": "Concierto de AirSupply ",
 "category": "musica",
 "artists": ["Orquesta Filarmónica Nacional"],
-"city": "Lima",
+"city": "Ecuador",
 "venue": "Teatro Mayor",
 "datetime": "2025-12-05T19:30:00-05:00",
 "priceFrom": 120.00,
@@ -12,9 +12,8 @@
 "stock": 850,
 "soldOut": false,
 "popularity": 87,
-"images": ["/imagenes/01.jpg"],
-"policies": { "age": "Todas las edades", "refund": "Reembolso hasta 48h antes" },
-"description": "Un repertorio de música clásica con obras de Beethoven y Mozart."
+"images": ["imagenes/01.jpg"],
+"description": "Un momento que legrata tu dia"
 },
 {
 "id": "evt-0003",
@@ -29,7 +28,7 @@
 "stock": 30000,
 "soldOut": false,
 "popularity": 95,
-"images": ["/imagenes/02.jpg"],
+"images": ["imagenes/02.jpg"],
 "policies": { "age": "18+", "refund": "No reembolsable" },
 "description": "Un festival de música urbana con artistas internacionales y nacionales."
 },
@@ -46,7 +45,7 @@
 "stock": 400,
 "soldOut": false,
 "popularity": 78,
-"images": ["/imagenes/03.jpg"]
+"images": ["imagenes/03.jpg"]
 },
 {
 "id": "evt-0005",
@@ -61,7 +60,7 @@
 "stock": 30000,
 "soldOut": false,
 "popularity": 95,
-"images": ["/imagenes/01.jpg", "/imagenes/13.jpg"],
+"images": ["imagenes/01.jpg", "/imagenes/13.jpg"],
 "policies": { "age": "18+", "refund": "No reembolsable" },
 "description": "Un festival de música urbana con artistas internacionales y nacionales."
 }
